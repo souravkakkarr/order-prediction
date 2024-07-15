@@ -24,5 +24,5 @@ Ready to streamline your logistics operations? Follow these steps:
 We welcome contributions, feedback, and ideas to enhance our Number of Orders Prediction Model. Together, we can optimize supply chain management and logistics operations.
 
 ## Acknowledgments 🙌
-- This project was developed during Machine Learning Training provided by IIT Bhubaneswar, inspired by the potential of machine learning to revolutionize logistics and supply chain management.
+- This project was developed during Machine Learning Training Course provided by IIT Bhubaneswar, inspired by the potential of machine learning to revolutionize logistics and supply chain management.
 - Special thanks to logistics professionals and researchers committed to enhancing predictive analytics in business operations.
